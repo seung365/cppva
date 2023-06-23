@@ -21,6 +21,7 @@ CppVa
 ![Frame_1](https://github.com/hackersground-kr/Team-CppVa/assets/74394824/6f5092dd-015e-49bb-a2ce-9ca69e8a3205)
 
 ## 제품 소개 슬라이드
+https://www.youtube.com/watch?v=tPvCVS6xwYo
 
 [decks/hackersground.pptx](https://github.com/hackersground-kr/cppva/blob/c8c443538b1b41b2f038d9561f33aa86dcb52f23/decks/hackersground.pptx)
 
